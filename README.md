@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a LINE BOT that uses the sentiment analysis of the COTOHA API to check whether messages entered on LINE contain negative words.
+This is a LINE BOT that checks negative words in sentences.
 
 ## Requirement
 
